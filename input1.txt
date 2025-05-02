@@ -1,0 +1,19 @@
+10
+Service 3500
+Property
+Service 2700
+Property
+Lucky 500
+Service 3200
+Property
+Service 2800
+Lucky 400
+Property
+5
+Evelyn Greedy
+Frank Tactical
+George kjhghg
+Helen Greedy
+Ian Tactical
+38
+3 1 4 2 5 3 6 2 1 4 2 5 3 4 1 2 6 3 5 2 4 1 3 5 6 4 2 3 1 6 4 5 3 2 1 6 5 3
